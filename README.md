@@ -1,3 +1,9 @@
+![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GitHubStanislav&theme=dracula)
+<!-- GitHub Profile Summary Cards -->
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitHubStanislav&theme=dracula">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitHubStanislav&theme=dracula" alt="GitHub Profile Summary Cards" />
+</a>
+
 ### Hi there 👋, I'm Stanislav 
 
 I'm a frontend developer open to new opportunities and constantly enhancing my skills. Here you will find information about my skills, the technologies I work with, and how to get in touch with me.
