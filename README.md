@@ -14,7 +14,7 @@ I'm a frontend developer open to new opportunities and constantly enhancing my s
 
 ## Contact
 
-![Email](https://img.shields.io/badge/Email-spiridonov.kyiv%40gmail.com-red?style=for-the-badge)
+spiridonov.kyiv@gmail.com
 
 ## GitHub Profile Trophy
 
