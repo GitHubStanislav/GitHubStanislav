@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Stanislav 
 
-## Hello!
-
 I'm a frontend developer open to new opportunities and constantly enhancing my skills. Here you will find information about my skills, the technologies I work with, and how to get in touch with me.
 
 ## Skills
