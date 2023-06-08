@@ -12,6 +12,14 @@ I'm a frontend developer open to new opportunities and constantly enhancing my s
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 
+## My Projects
+
+Here are some of my projects that you can check out on GitHub:
+
+- [Crypto Coin](https://github.com/GitHubStanislav/crypto-coin): A project related to cryptocurrency.
+
+Feel free to explore these repositories and provide feedback or suggestions.
+
 ## Contact
 
 spiridonov.kyiv@gmail.com
