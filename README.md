@@ -1,4 +1,3 @@
-![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GitHubStanislav&theme=dracula)
 <!-- GitHub Profile Summary Cards -->
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitHubStanislav&theme=dracula">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitHubStanislav&theme=dracula" alt="GitHub Profile Summary Cards" />
