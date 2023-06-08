@@ -16,14 +16,7 @@ I'm a frontend developer open to new opportunities and constantly enhancing my s
 
 ## Contact
 
-- Email: example@example.com
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-
-## Status
-
-![Project Status](https://img.shields.io/badge/status-open-brightgreen)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+-spiridonov.kyiv@gmail.com
 
 ## Monitoring
 
@@ -53,10 +46,3 @@ I'm a frontend developer open to new opportunities and constantly enhancing my s
 ![GitHub Stars](https://img.shields.io/github/stars/GitHubStanislav.svg?style=social&label=Stars)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/GitHubStanislav/GitHubStanislav.svg)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-_Please replace "yourname", "yourusername", and "yourrepository" with your actual GitHub profile and repository values, if applicable. Also, don't forget to add your contact information and email._
