@@ -1,6 +1,6 @@
 <!-- GitHub Profile Summary Cards -->
-<a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitHubStanislav&theme=dracula">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitHubStanislav&theme=dracula" alt="GitHub Profile Summary Cards" />
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitHubStanislav&theme=default">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitHubStanislav&theme=default" alt="GitHub Profile Summary Cards" />
 </a>
 
 ### Hi there 👋, I'm Stanislav 
@@ -31,7 +31,7 @@ spiridonov.kyiv@gmail.com
 
 ## GitHub Readme Streak Stats
 
-![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GitHubStanislav&theme=dracula)
+![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GitHubStanislav&theme=default)
 
 ## Visitor Counter
 
@@ -39,11 +39,13 @@ spiridonov.kyiv@gmail.com
 
 ## GitHub Profile Summary Cards
 
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitHubStanislav&theme=dracula)
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitHubStanislav&theme=default)
 
 ## Statistics
 
 ![GitHub Followers](https://img.shields.io/github/followers/GitHubStanislav.svg?style=social&label=Follow)
 ![GitHub Stars](https://img.shields.io/github/stars/GitHubStanislav.svg?style=social&label=Stars)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/GitHubStanislav/GitHubStanislav.svg)
+
+
 
