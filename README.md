@@ -16,10 +16,6 @@ I'm a frontend developer open to new opportunities and constantly enhancing my s
 
 spiridonov.kyiv@gmail.com
 
-## GitHub Profile Trophy
-
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=GitHubStanislav&theme=dracula)
-
 ## GitHub Readme Streak Stats
 
 ![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GitHubStanislav&theme=dracula)
