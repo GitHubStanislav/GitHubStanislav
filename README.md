@@ -18,12 +18,6 @@ I'm a frontend developer open to new opportunities and constantly enhancing my s
 
 -spiridonov.kyiv@gmail.com
 
-## Monitoring
-
-![Uptime Monitoring](https://img.shields.io/website?url=https%3A%2F%2Fexample.com%2F)
-![Ping Monitoring](https://img.shields.io/pingdom/uptime.svg)
-![Response Time Monitoring](https://img.shields.io/pingdom/response-time.svg)
-
 ## GitHub Profile Trophy
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=GitHubStanislav&theme=dracula)
